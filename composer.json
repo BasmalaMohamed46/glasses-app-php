@@ -1,0 +1,10 @@
+{
+    "require":{
+        "illuminate/database": "*"
+    },
+    "autoload": {
+        
+        "files":["config.php","db.php"]
+
+    }
+}
